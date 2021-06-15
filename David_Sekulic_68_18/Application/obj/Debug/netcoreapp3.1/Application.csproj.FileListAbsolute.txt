@@ -1,0 +1,12 @@
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete

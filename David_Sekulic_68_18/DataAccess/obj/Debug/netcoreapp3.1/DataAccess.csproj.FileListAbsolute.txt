@@ -1,0 +1,15 @@
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache

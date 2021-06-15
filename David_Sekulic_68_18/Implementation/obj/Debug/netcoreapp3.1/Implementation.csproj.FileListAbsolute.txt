@@ -1,0 +1,16 @@
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\obj\Debug\netcoreapp3.1\Implementation.csprojAssemblyReference.cache
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\obj\Debug\netcoreapp3.1\Implementation.AssemblyInfoInputs.cache
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\obj\Debug\netcoreapp3.1\Implementation.AssemblyInfo.cs
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\obj\Debug\netcoreapp3.1\Implementation.csproj.CoreCompileInputs.cache
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\bin\Debug\netcoreapp3.1\Implementation.deps.json
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\bin\Debug\netcoreapp3.1\Implementation.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\bin\Debug\netcoreapp3.1\Implementation.pdb
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\bin\Debug\netcoreapp3.1\Application.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\bin\Debug\netcoreapp3.1\Application.pdb
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\obj\Debug\netcoreapp3.1\Implementation.csproj.CopyComplete
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\obj\Debug\netcoreapp3.1\Implementation.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\obj\Debug\netcoreapp3.1\Implementation.pdb
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\bin\Debug\netcoreapp3.1\Domain.dll
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\skola\TRECA god\ASP\Projekat\David_Sekulic_68_18\Implementation\bin\Debug\netcoreapp3.1\Domain.pdb
